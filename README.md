@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/cla91/social-links-profile-main)
+- Live Site URL: [live site URL](https://cla91.github.io/social-links-profile-main/)
 
 ## My process
 
